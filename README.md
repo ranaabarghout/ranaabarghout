@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on applying deep learning techniques to genome-scale models!
+- 🌱 I’m currently learning more about generative ML methods (diffusion models, transformers, etc!) 
+- 💬 Ask me about ML in metabolic engineering!
+- 📫 How to reach me: X (rana_barghout) or email!
+
+  Find more at [my profile](ranaabarghout.github.io)
 <!--
 **ranaabarghout/ranaabarghout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
