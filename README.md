@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-- I’m currently working on applying deep learning techniques to genome-scale metabolic models!
-- Also learning more about generative and graph ML methods 
-- Ask me about ML in metabolic engineering!
-- How to reach me: X (rana_barghout) or email!
-
   Find more at [ranaabarghout.github.io](https://ranaabarghout.github.io/)
 
   Thanks for visiting 😄
